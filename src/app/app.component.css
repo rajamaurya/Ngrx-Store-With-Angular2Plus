@@ -1,0 +1,26 @@
+table{
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-image: linear-gradient(to bottom right, #ffffff, lightgrey);
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+tbody{
+    padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-image: linear-gradient(to bottom right, #ffffff, lightgrey);
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+tr{
+   
+  border: 1px solid #BFBFBF;
+  background-image: linear-gradient(to bottom right, #ffffff, lightgrey);
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+tr:hover{
+    background-image: linear-gradient(to bottom right, #ffffff, rgb(196, 197, 226));
+    background-color: rgb(160, 168, 211);
+    box-shadow: 1px 6px 15px #b1b8f7;
+}
